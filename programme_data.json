@@ -1,0 +1,3478 @@
+{
+    "export_date": "2026-05-21",
+    "year_begin": 2026,
+    "year_end": 2027,
+    "school": "civil",
+    "programmes": [
+        {
+            "prog_id": 1778,
+            "programme_title": "Architecture (5 year)",
+            "programme_short_title": "Arch (5yr)",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 1,
+                    "modules": [
+                        {
+                            "module_code": "CIVE1165",
+                            "module_title": "Architecture and Sustainability",
+                            "module_leader": "Louise Fletcher",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1265",
+                            "module_title": "Surveying, Construction Technology and Management",
+                            "module_leader": "Michal Drewniok",
+                            "credits": 20,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1365",
+                            "module_title": "Structural Analysis and Design",
+                            "module_leader": "Suhaila Mattar",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1465",
+                            "module_title": "Materials, Water and Soils",
+                            "module_leader": "Leon Black",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1560",
+                            "module_title": "Engineering Mathematics and Modelling 1",
+                            "module_leader": "Duncan Borman",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1665",
+                            "module_title": "Integrated Design Project 1 (inc Design Studio 1)",
+                            "module_leader": "Yasar Awais",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "modules": [
+                        {
+                            "module_code": "CIVE2260",
+                            "module_title": "Architectural History & Theory 2",
+                            "module_leader": "May Newisar",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2470",
+                            "module_title": "Water Engineering and Geotechnics",
+                            "module_leader": "Doug Stewart",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2560",
+                            "module_title": "Engineering Mathematics and Modelling 2",
+                            "module_leader": "Duncan Borman",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2780",
+                            "module_title": "Structural Design and Materials 1",
+                            "module_leader": "Francesco Pugliese",
+                            "credits": 40,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "New module",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2815",
+                            "module_title": "Building Physics 1: Fundamental Principles",
+                            "module_leader": "Doug Booker",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2860",
+                            "module_title": "Design Studio 2",
+                            "module_leader": "Yasar Awais",
+                            "credits": 20,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "modules": [
+                        {
+                            "module_code": "CIVE3000",
+                            "module_title": "Reflective Portfolio (Civil)",
+                            "module_leader": "Ashani Ranathunga",
+                            "credits": 0,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3270",
+                            "module_title": "Architectural History & Theory 3",
+                            "module_leader": "Yasar Awais",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3750",
+                            "module_title": "Individual Research Project",
+                            "module_leader": "Marco Felipe King",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3780",
+                            "module_title": "Structural Design and Materials 2",
+                            "module_leader": "Vasilis Sarhosis",
+                            "credits": 20,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3820",
+                            "module_title": "Building Physics 2: Services Design",
+                            "module_leader": "Xiaoan Mao",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3870",
+                            "module_title": "Design Studio 3.1",
+                            "module_leader": "Sally Shahzad",
+                            "credits": 30,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3871",
+                            "module_title": "Design Studio 3.2",
+                            "module_leader": "Yasar Awais",
+                            "credits": 30,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 5,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5805M",
+                            "module_title": "Sustainable Cities",
+                            "module_leader": "Sally Shahzad",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "New module",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5815M",
+                            "module_title": "Building Physics 3",
+                            "module_leader": "Simon Rees",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5825M",
+                            "module_title": "Management, Practice and Law",
+                            "module_leader": "Yasar Awais",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "New module",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5840M",
+                            "module_title": "Design Studio 4.1",
+                            "module_leader": "Justin Lunn",
+                            "credits": 30,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5855M",
+                            "module_title": "Design Studio 4.2R",
+                            "module_leader": "Justin Lunn",
+                            "credits": 45,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 6,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5870M",
+                            "module_title": "Dissertation",
+                            "module_leader": "Justin Lunn",
+                            "credits": 30,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5875M",
+                            "module_title": "Procurement & Risk Management",
+                            "module_leader": "Justin Lunn",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5880M",
+                            "module_title": "Design Studio 5",
+                            "module_leader": "Justin Lunn",
+                            "credits": 60,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5885M",
+                            "module_title": "Environmental Performance & Design",
+                            "module_leader": "Simon Rees",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5895M",
+                            "module_title": "Advanced Construction Issues",
+                            "module_leader": "Justin Lunn",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "prog_id": 1779,
+            "programme_title": "Civil Engineering",
+            "programme_short_title": "Civil Eng",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 1,
+                    "modules": [
+                        {
+                            "module_code": "CIVE1165",
+                            "module_title": "Architecture and Sustainability",
+                            "module_leader": "Louise Fletcher",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1265",
+                            "module_title": "Surveying, Construction Technology and Management",
+                            "module_leader": "Michal Drewniok",
+                            "credits": 20,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1365",
+                            "module_title": "Structural Analysis and Design",
+                            "module_leader": "Suhaila Mattar",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1465",
+                            "module_title": "Materials, Water and Soils",
+                            "module_leader": "Leon Black",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1560",
+                            "module_title": "Engineering Mathematics and Modelling 1",
+                            "module_leader": "Duncan Borman",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1665",
+                            "module_title": "Integrated Design Project 1 (inc Design Studio 1)",
+                            "module_leader": "Yasar Awais",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "modules": [
+                        {
+                            "module_code": "CIVE2081",
+                            "module_title": "Transport Planning and Modelling 1",
+                            "module_leader": "Judith Wang",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2250",
+                            "module_title": "Sustainable Engineering Solutions",
+                            "module_leader": "Maryam Asachi",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2470",
+                            "module_title": "Water Engineering and Geotechnics",
+                            "module_leader": "Doug Stewart",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2550",
+                            "module_title": "Highway Engineering",
+                            "module_leader": "Yue Huang",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2560",
+                            "module_title": "Engineering Mathematics and Modelling 2",
+                            "module_leader": "Duncan Borman",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2660",
+                            "module_title": "Integrated Design Project 2",
+                            "module_leader": "Suhaila Mattar",
+                            "credits": 20,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2780",
+                            "module_title": "Structural Design and Materials 1",
+                            "module_leader": "Francesco Pugliese",
+                            "credits": 40,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2815",
+                            "module_title": "Building Physics 1: Fundamental Principles",
+                            "module_leader": "Doug Booker",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2950",
+                            "module_title": "Data and Research Methods for Engineers",
+                            "module_leader": "Emilio Garcia - Taengua",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "modules": [
+                        {
+                            "module_code": "CIVE3000",
+                            "module_title": "Reflective Portfolio (Civil)",
+                            "module_leader": "Ashani Ranathunga",
+                            "credits": 0,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3081",
+                            "module_title": "Transport Planning & Modelling 2",
+                            "module_leader": "Judith Wang",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3270",
+                            "module_title": "Architectural History & Theory 3",
+                            "module_leader": "Yasar Awais",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3420",
+                            "module_title": "Wastewater Engineering",
+                            "module_leader": "Cynthia Okoro-Shekwaga",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3460",
+                            "module_title": "Environmental Health Engineering in Developing Countries",
+                            "module_leader": "Barbara Evans",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3470",
+                            "module_title": "Water Engineering and Geotechnics 2",
+                            "module_leader": "Shashank Subramanyam",
+                            "credits": 20,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3555",
+                            "module_title": "Highway Engineering 2",
+                            "module_leader": "Yue Huang",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3650",
+                            "module_title": "Computational Methods for Civil Engineering",
+                            "module_leader": "Amir Khan",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3660",
+                            "module_title": "Integrated Design Project 3",
+                            "module_leader": "Fleur Loveridge",
+                            "credits": 40,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3750",
+                            "module_title": "Individual Research Project",
+                            "module_leader": "Marco Felipe King",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3780",
+                            "module_title": "Structural Design and Materials 2",
+                            "module_leader": "Vasilis Sarhosis",
+                            "credits": 20,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3820",
+                            "module_title": "Building Physics 2: Services Design",
+                            "module_leader": "Xiaoan Mao",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "SOEE3135",
+                            "module_title": "Engineering Geology",
+                            "module_leader": "Mark Thomas",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": "other"
+                        }
+                    ]
+                },
+                {
+                    "level": 5,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5013",
+                            "module_title": "Design & Management of Structures in Earthquake Zones",
+                            "module_leader": "Nikolas Nikitas",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5025M",
+                            "module_title": "Advanced Concrete Design",
+                            "module_leader": "John Forth",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5026M",
+                            "module_title": "Deterioration & Maintenance of Concrete Structures",
+                            "module_leader": "",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5145M",
+                            "module_title": "Advanced Steel and Composite Design",
+                            "module_leader": "Han Fang",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5315M",
+                            "module_title": "Water Resource Management",
+                            "module_leader": "Mark Trigg",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5320M",
+                            "module_title": "Water Supply",
+                            "module_leader": "Mohsen Besharat",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5595M",
+                            "module_title": "Engineering in Emergencies",
+                            "module_leader": "Barbara Evans",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5670M",
+                            "module_title": "Geotechnical Engineering",
+                            "module_leader": "Peter Woodward",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5755M",
+                            "module_title": "Individual Research Project 2",
+                            "module_leader": "Amir Khan",
+                            "credits": 45,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5851M",
+                            "module_title": "Integrated Design Project 4",
+                            "module_leader": "David Richardson",
+                            "credits": 30,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5960M",
+                            "module_title": "Advanced Structural Analysis",
+                            "module_leader": "Ioannis Mitseas",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "prog_id": 1780,
+            "programme_title": "Architectural Engineering",
+            "programme_short_title": "Arch Eng",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 1,
+                    "modules": [
+                        {
+                            "module_code": "CIVE1165",
+                            "module_title": "Architecture and Sustainability",
+                            "module_leader": "Louise Fletcher",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1265",
+                            "module_title": "Surveying, Construction Technology and Management",
+                            "module_leader": "Michal Drewniok",
+                            "credits": 20,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1365",
+                            "module_title": "Structural Analysis and Design",
+                            "module_leader": "Suhaila Mattar",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1465",
+                            "module_title": "Materials, Water and Soils",
+                            "module_leader": "Leon Black",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1560",
+                            "module_title": "Engineering Mathematics and Modelling 1",
+                            "module_leader": "Duncan Borman",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1665",
+                            "module_title": "Integrated Design Project 1 (inc Design Studio 1)",
+                            "module_leader": "Yasar Awais",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "modules": [
+                        {
+                            "module_code": "CIVE2260",
+                            "module_title": "Architectural History & Theory 2",
+                            "module_leader": "May Newisar",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2470",
+                            "module_title": "Water Engineering and Geotechnics",
+                            "module_leader": "Doug Stewart",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2560",
+                            "module_title": "Engineering Mathematics and Modelling 2",
+                            "module_leader": "Duncan Borman",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2780",
+                            "module_title": "Structural Design and Materials 1",
+                            "module_leader": "Francesco Pugliese",
+                            "credits": 40,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2815",
+                            "module_title": "Building Physics 1: Fundamental Principles",
+                            "module_leader": "Doug Booker",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2860",
+                            "module_title": "Design Studio 2",
+                            "module_leader": "Yasar Awais",
+                            "credits": 20,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "modules": [
+                        {
+                            "module_code": "CIVE3000",
+                            "module_title": "Reflective Portfolio (Civil)",
+                            "module_leader": "Ashani Ranathunga",
+                            "credits": 0,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3270",
+                            "module_title": "Architectural History and Theory 3",
+                            "module_leader": "Yasar Awais",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3460",
+                            "module_title": "Environmental Health Engineering in Developing Countries",
+                            "module_leader": "Barbara Evans",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3470",
+                            "module_title": "Water Engineering and Geotechnics 2",
+                            "module_leader": "Shashank Subramanyam",
+                            "credits": 20,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3650",
+                            "module_title": "Computational Methods for Civil Engineering",
+                            "module_leader": "Amir Khan",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3750",
+                            "module_title": "Individual Research Project 1",
+                            "module_leader": "Marco Felipe King",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3780",
+                            "module_title": "Structural Design and Materials 2",
+                            "module_leader": "Vasilis Sarhosis",
+                            "credits": 20,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3820",
+                            "module_title": "Building Physics 2: Services Design",
+                            "module_leader": "Xiaoan Mao",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3871",
+                            "module_title": "Design Studio 3.2",
+                            "module_leader": "Yasar Awais",
+                            "credits": 30,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 5,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5805M",
+                            "module_title": "Sustainable Cities",
+                            "module_leader": "Sally Shahzad",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5815M",
+                            "module_title": "Building Physics 3",
+                            "module_leader": "Simon Rees",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5825M",
+                            "module_title": "Management, Practice and Law",
+                            "module_leader": "Yasar Awais",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5840M",
+                            "module_title": "Design Studio 4.1",
+                            "module_leader": "Justin Lunn",
+                            "credits": 30,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5855M",
+                            "module_title": "Design Studio 4.2R",
+                            "module_leader": "Justin Lunn",
+                            "credits": 45,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "prog_id": 1781,
+            "programme_title": "Civil and Structural Engineering",
+            "programme_short_title": "Civil & Struct",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 1,
+                    "modules": [
+                        {
+                            "module_code": "CIVE1165",
+                            "module_title": "Architecture and Sustainability",
+                            "module_leader": "Louise Fletcher",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1265",
+                            "module_title": "Surveying, Construction Technology and Management",
+                            "module_leader": "Michal Drewniok",
+                            "credits": 20,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1365",
+                            "module_title": "Structural Analysis and Design",
+                            "module_leader": "Suhaila Mattar",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1465",
+                            "module_title": "Materials, Water and Soils",
+                            "module_leader": "Leon Black",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1560",
+                            "module_title": "Engineering Mathematics and Modelling 1",
+                            "module_leader": "Duncan Borman",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1665",
+                            "module_title": "Integrated Design Project 1 (inc Design Studio 1)",
+                            "module_leader": "Yasar Awais",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "modules": [
+                        {
+                            "module_code": "CIVE2081",
+                            "module_title": "Transport Planning and Modelling 1",
+                            "module_leader": "Judith Wang",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2250",
+                            "module_title": "Sustainable Engineering Solutions",
+                            "module_leader": "Maryam Asachi",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2260",
+                            "module_title": "Arch History & Theory 2",
+                            "module_leader": "May Newisar",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2470",
+                            "module_title": "Water Engineering and Geotechnics",
+                            "module_leader": "Doug Stewart",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2550",
+                            "module_title": "Highway Engineering",
+                            "module_leader": "Yue Huang",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2560",
+                            "module_title": "Engineering Mathematics and Modelling 2",
+                            "module_leader": "Duncan Borman",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2660",
+                            "module_title": "Integrated Design Project 2",
+                            "module_leader": "Suhaila Mattar",
+                            "credits": 20,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2780",
+                            "module_title": "Structural Design and Materials 1",
+                            "module_leader": "Francesco Pugliese",
+                            "credits": 40,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2815",
+                            "module_title": "Building Physics 1: Fundamental Principles",
+                            "module_leader": "Doug Booker",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2950",
+                            "module_title": "Data and Research Methods for Engineers",
+                            "module_leader": "Emilio Garcia - Taengua",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "modules": [
+                        {
+                            "module_code": "CIVE3000",
+                            "module_title": "Reflective Portfolio (Civil)",
+                            "module_leader": "Ashani Ranathunga",
+                            "credits": 0,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3270",
+                            "module_title": "Architectural History & Theory 3",
+                            "module_leader": "Yasar Awais",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3420",
+                            "module_title": "Wastewater Engineering",
+                            "module_leader": "Cynthia Okoro-Shekwaga",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3460",
+                            "module_title": "Environmental Health Engineering in Developing Countries",
+                            "module_leader": "Barbara Evans",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3470",
+                            "module_title": "Water Engineering and Geotechnics 2",
+                            "module_leader": "Shashank Subramanyam",
+                            "credits": 20,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3555",
+                            "module_title": "Highway Engineering 2",
+                            "module_leader": "Yue Huang",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3650",
+                            "module_title": "Computational Methods for Civil Engineering",
+                            "module_leader": "Amir Khan",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3660",
+                            "module_title": "Integrated Design Project 3",
+                            "module_leader": "Fleur Loveridge",
+                            "credits": 40,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3750",
+                            "module_title": "Individual Research Project",
+                            "module_leader": "Marco Felipe King",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3780",
+                            "module_title": "Structural Design and Materials 2",
+                            "module_leader": "Vasilis Sarhosis",
+                            "credits": 20,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3820",
+                            "module_title": "Building Physics 2: Services Design",
+                            "module_leader": "Xiaoan Mao",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "SOEE3135",
+                            "module_title": "Engineering Geology",
+                            "module_leader": "Mark Thomas",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": "other"
+                        }
+                    ]
+                },
+                {
+                    "level": 5,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5013",
+                            "module_title": "Design & Management of Structures in Earthquake Zones",
+                            "module_leader": "Nikolas Nikitas",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5025M",
+                            "module_title": "Advanced Concrete Design",
+                            "module_leader": "John Forth",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5026M",
+                            "module_title": "Deterioration & Maintenance of Concrete Structures",
+                            "module_leader": "",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5145M",
+                            "module_title": "Advanced Steel and Composite Design",
+                            "module_leader": "Han Fang",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5315M",
+                            "module_title": "Water Resource Management",
+                            "module_leader": "Mark Trigg",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5320M",
+                            "module_title": "Water Supply",
+                            "module_leader": "Mohsen Besharat",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5595M",
+                            "module_title": "Engineering in Emergencies",
+                            "module_leader": "Barbara Evans",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5670M",
+                            "module_title": "Geotechnical Engineering",
+                            "module_leader": "Peter Woodward",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5755M",
+                            "module_title": "Individual Research Project 2",
+                            "module_leader": "Amir Khan",
+                            "credits": 45,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5851M",
+                            "module_title": "Integrated Design Project 4",
+                            "module_leader": "David Richardson",
+                            "credits": 30,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5960M",
+                            "module_title": "Advanced Structural Analysis",
+                            "module_leader": "Ioannis Mitseas",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "prog_id": 1782,
+            "programme_title": "Civil Engineering with Transport (3 years)",
+            "programme_short_title": "Civ Eng w Trans (3yrs)",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 1,
+                    "modules": [
+                        {
+                            "module_code": "CIVE1165",
+                            "module_title": "Architecture and Sustainability",
+                            "module_leader": "Louise Fletcher",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1265",
+                            "module_title": "Surveying, Construction Technology and Management",
+                            "module_leader": "Michal Drewniok",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1365",
+                            "module_title": "Structural Analysis and Design",
+                            "module_leader": "Suhaila Mattar",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1465",
+                            "module_title": "Materials, Water and Soils",
+                            "module_leader": "Leon Black",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1560",
+                            "module_title": "Engineering Mathematics and Modelling 1",
+                            "module_leader": "Duncan Borman",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1665",
+                            "module_title": "Integrated Design Project 1 (inc Design Studio 1)",
+                            "module_leader": "Yasar Awais",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "modules": [
+                        {
+                            "module_code": "CIVE2081",
+                            "module_title": "Transport Planning and Modelling 1",
+                            "module_leader": "Judith Wang",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2470",
+                            "module_title": "Water Engineering and Geotechnics",
+                            "module_leader": "Doug Stewart",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2550",
+                            "module_title": "Highway Engineering",
+                            "module_leader": "Yue Huang",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2560",
+                            "module_title": "Engineering Mathematics and Modelling 2",
+                            "module_leader": "Duncan Borman",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2660",
+                            "module_title": "Integrated Design Project 2",
+                            "module_leader": "Suhaila Mattar",
+                            "credits": 20,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2780",
+                            "module_title": "Structural Design and Materials 1",
+                            "module_leader": "Francesco Pugliese",
+                            "credits": 40,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "New Module",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "modules": [
+                        {
+                            "module_code": "CIVE3000",
+                            "module_title": "Reflective Portfolio (Civil)",
+                            "module_leader": "Ashani Ranathunga",
+                            "credits": 0,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3081",
+                            "module_title": "Transport Planning & Modelling 2",
+                            "module_leader": "Judith Wang",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3470",
+                            "module_title": "Water Engineering and Geotechnics 2",
+                            "module_leader": "Shashank Subramanyam",
+                            "credits": 20,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3555",
+                            "module_title": "Highway Engineering 2",
+                            "module_leader": "Yue Huang",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3660",
+                            "module_title": "Integrated Design Project 3",
+                            "module_leader": "Fleur Loveridge",
+                            "credits": 40,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3750",
+                            "module_title": "Individual Research Project",
+                            "module_leader": "Marco Felipe King",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3780",
+                            "module_title": "Structural Design and Materials 2",
+                            "module_leader": "Vasilis Sarhosis",
+                            "credits": 20,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "prog_id": 1783,
+            "programme_title": "MSc Environmental Engineering with Project Management",
+            "programme_short_title": "EEPM",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 5,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5000M",
+                            "module_title": "MSc Dissertation",
+                            "module_leader": "Mateusz Bocian",
+                            "credits": 60,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5171M",
+                            "module_title": "Principles of Sustainable Project Management",
+                            "module_leader": "Luca Sabini",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5312M",
+                            "module_title": "Wastewater and Faecal Sludge Management",
+                            "module_leader": "Miller Camargo - Valero",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5316M",
+                            "module_title": "Water Resource Management",
+                            "module_leader": "Mark Trigg",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5321M",
+                            "module_title": "Water Supply",
+                            "module_leader": "Mohsen Besharat",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5370M",
+                            "module_title": "Indoor and Urban Air Quality",
+                            "module_leader": "Marco Felipe King",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5557M",
+                            "module_title": "Solid Waste Management",
+                            "module_leader": "Zhe Zhan",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5575M",
+                            "module_title": "Groundwater Pollution and Contaminated Land",
+                            "module_leader": "Xiaohui Chen",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5680M",
+                            "module_title": "Environmental Microbiology",
+                            "module_leader": "Louise Fletcher",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "prog_id": 1784,
+            "programme_title": "MSc Engineering with Project Management",
+            "programme_short_title": "EPM",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 5,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5171M",
+                            "module_title": "Principles of Sustainable Project Management",
+                            "module_leader": "Luca Sabini",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5172M",
+                            "module_title": "Project Management Tools and Techniques",
+                            "module_leader": "William Collinge",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5173M",
+                            "module_title": "Risk and Resilience",
+                            "module_leader": "Apollo Tutesigensi",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5174M",
+                            "module_title": "People Management",
+                            "module_leader": "Dicle Kortantamer",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5175M",
+                            "module_title": "Project Strategy and Organisation",
+                            "module_leader": "Christine Unterhitzenberger",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5176M",
+                            "module_title": "Innovation and Digital Technologies",
+                            "module_leader": "Yixue Shen",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5177M",
+                            "module_title": "Systems Integration",
+                            "module_leader": "Yixue Shen",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5178M",
+                            "module_title": "Applied Project Management",
+                            "module_leader": "Rodrigo Juarez-Cornelio",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5179M",
+                            "module_title": "Research Methods and Professional Skills",
+                            "module_leader": "Christine Unterhitzenberger",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5189M",
+                            "module_title": "ICME \/ EPM Dissertation (2026\/27)",
+                            "module_leader": "Dicle Kortantamer",
+                            "credits": 45,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "prog_id": 1785,
+            "programme_title": "MSc International Construction Management with Engineering",
+            "programme_short_title": "ICME",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 5,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5171M",
+                            "module_title": "Pricniples of Sustainable Project Management",
+                            "module_leader": "Luca Sabini",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5172M",
+                            "module_title": "Project Management Tools and Techniques",
+                            "module_leader": "William Collinge",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5173M",
+                            "module_title": "Risk and Resilience",
+                            "module_leader": "Apollo Tutesigensi",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5174M",
+                            "module_title": "People Management",
+                            "module_leader": "Dicle Kortantamer",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5179M",
+                            "module_title": "Research Methods and Professional Skills",
+                            "module_leader": "Christine Unterhitzenberger",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5189M",
+                            "module_title": "ICME \/ EPM Dissertation (2026\/27)",
+                            "module_leader": "Dicle Kortantamer",
+                            "credits": 45,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5360M",
+                            "module_title": "Procurement Management",
+                            "module_leader": "Apollo Tutesigensi",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5380M",
+                            "module_title": "Contextual Issues in International Construction",
+                            "module_leader": "William Collinge",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5390M",
+                            "module_title": "Construction Engineering",
+                            "module_leader": "Alex Torku",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5941M",
+                            "module_title": "Whole Life Asset Management",
+                            "module_leader": "Alex Torku",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "prog_id": 1787,
+            "programme_title": "SWJTU Civil Engineering with Transport",
+            "programme_short_title": "Civ Eng w Transp",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 1,
+                    "modules": [
+                        {
+                            "module_code": "XJCV1165",
+                            "module_title": "Architecture and Sustainability",
+                            "module_leader": "Louise Fletcher",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV1265",
+                            "module_title": "Surveying, Construction Technology and Management",
+                            "module_leader": "Michal Drewniok",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV1365",
+                            "module_title": "Structural Analysis and Design",
+                            "module_leader": "Suhaila Mattar",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV1465",
+                            "module_title": "Materials, Water and Soils",
+                            "module_leader": "Dariusz Wanatowski",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV1560",
+                            "module_title": "Engineering Mathematics and Modelling 1",
+                            "module_leader": "Duncan Borman",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV1665",
+                            "module_title": "Integrated Design Project 1 (inc Design Studio 1)",
+                            "module_leader": "David Richardson",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJFY1000",
+                            "module_title": "Engineering Communication Skills 2",
+                            "module_leader": "Matthew Ketteringham",
+                            "credits": 10,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": "mech"
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "modules": [
+                        {
+                            "module_code": "XJCV2081",
+                            "module_title": "Transport Planning and Modelling 1",
+                            "module_leader": "Judith Wang",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV2470",
+                            "module_title": "Water Engineering and Geotechnics",
+                            "module_leader": "Doug Stewart",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV2550",
+                            "module_title": "Highway Engineering",
+                            "module_leader": "Yue Huang",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV2560",
+                            "module_title": "Engineering Mathematics and Modelling 2",
+                            "module_leader": "Duncan Borman",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV2660",
+                            "module_title": "Integrated Design Project 2",
+                            "module_leader": "David Richardson",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV2780",
+                            "module_title": "Structural Design and Materials 1",
+                            "module_leader": "Francesco Pugliese",
+                            "credits": 40,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJFY2010",
+                            "module_title": "Engineering Communication Skills 2",
+                            "module_leader": "Matthew Ketteringham",
+                            "credits": 5,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": "mech"
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "modules": [
+                        {
+                            "module_code": "XJCV3000",
+                            "module_title": "Reflective Portfolio (Civil)",
+                            "module_leader": "Yue Huang",
+                            "credits": 0,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV3081",
+                            "module_title": "Transport Planning & Modelling 2",
+                            "module_leader": "Judith Wang",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV3470",
+                            "module_title": "Water Engineering and Geotechnics 2",
+                            "module_leader": "Shashank Subramanyam",
+                            "credits": 20,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV3550",
+                            "module_title": "Railway Engineering",
+                            "module_leader": "Ali Rahman",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV3555",
+                            "module_title": "Highway Engineering 2",
+                            "module_leader": "Yue Huang",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV3660",
+                            "module_title": "Integrated Design Project 3",
+                            "module_leader": "David Richardson",
+                            "credits": 40,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV3750",
+                            "module_title": "Individual Research Project",
+                            "module_leader": "Zhe Zhan",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "XJCV3780",
+                            "module_title": "Structural Design and Materials 2",
+                            "module_leader": "Vasilis Sarhosis",
+                            "credits": 20,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "prog_id": 1788,
+            "programme_title": "Civil and Environmental Engineering",
+            "programme_short_title": "Civil and Env Eng",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 1,
+                    "modules": [
+                        {
+                            "module_code": "CIVE1165",
+                            "module_title": "Architecture and Sustainability",
+                            "module_leader": "Louise Fletcher",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1265",
+                            "module_title": "Surveying, Construction Technology and Management",
+                            "module_leader": "Michal Drewniok",
+                            "credits": 20,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1365",
+                            "module_title": "Structural Analysis and Design",
+                            "module_leader": "Suhaila Mattar",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1465",
+                            "module_title": "Materials, Water and Soils",
+                            "module_leader": "Leon Black",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1560",
+                            "module_title": "Engineering Mathematics and Modelling 1",
+                            "module_leader": "Duncan Borman",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE1665",
+                            "module_title": "Integrated Design Project 1 (inc Design Studio 1)",
+                            "module_leader": "Yasar Awais",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "modules": [
+                        {
+                            "module_code": "CIVE2081",
+                            "module_title": "Transport Planning and Modelling 1",
+                            "module_leader": "Judith Wang",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2250",
+                            "module_title": "Sustainable Engineering Solutions",
+                            "module_leader": "Maryam Asachi",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2470",
+                            "module_title": "Water Engineering and Geotechnics",
+                            "module_leader": "Doug Stewart",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2550",
+                            "module_title": "Highway Engineering",
+                            "module_leader": "Yue Huang",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2560",
+                            "module_title": "Engineering Mathematics and Modelling 2",
+                            "module_leader": "Duncan Borman",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2660",
+                            "module_title": "Integrated Design Project 2",
+                            "module_leader": "Suhaila Mattar",
+                            "credits": 20,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2780",
+                            "module_title": "Structural Design and Materials 1",
+                            "module_leader": "Francesco Pugliese",
+                            "credits": 40,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2815",
+                            "module_title": "Building Physics 1: Fundamental Principles",
+                            "module_leader": "Doug Booker",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE2950",
+                            "module_title": "Data and Research Methods for Engineers",
+                            "module_leader": "Emilio Garcia - Taengua",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 3,
+                    "modules": [
+                        {
+                            "module_code": "CIVE3000",
+                            "module_title": "Reflective Portfolio (Civil)",
+                            "module_leader": "Ashani Ranathunga",
+                            "credits": 0,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3420",
+                            "module_title": "Wastewater Engineering",
+                            "module_leader": "Cynthia Okoro-Shekwaga",
+                            "credits": 10,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3460",
+                            "module_title": "Environmental Health Engineering in Developing Countries",
+                            "module_leader": "Barbara Evans",
+                            "credits": 10,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3470",
+                            "module_title": "Water Engineering and Geotechnics 2",
+                            "module_leader": "Shashank Subramanyam",
+                            "credits": 20,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3660",
+                            "module_title": "Integrated Design Project 3",
+                            "module_leader": "Fleur Loveridge",
+                            "credits": 40,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3750",
+                            "module_title": "Individual Research Project",
+                            "module_leader": "Marco Felipe King",
+                            "credits": 20,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE3780",
+                            "module_title": "Structural Design and Materials 2",
+                            "module_leader": "Vasilis Sarhosis",
+                            "credits": 20,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 5,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5040M",
+                            "module_title": "Solid Waste Management",
+                            "module_leader": "Zhe Zhan",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5145M",
+                            "module_title": "Advanced Steel and Composite Design",
+                            "module_leader": "Han Fang",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5315M",
+                            "module_title": "Water Resource Management",
+                            "module_leader": "Mark Trigg",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5320M",
+                            "module_title": "Water Supply",
+                            "module_leader": "Mohsen Besharat",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5595M",
+                            "module_title": "Engineering in Emergencies",
+                            "module_leader": "Barbara Evans",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5670M",
+                            "module_title": "Geotechnical Engineering",
+                            "module_leader": "Peter Woodward",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5755M",
+                            "module_title": "Individual Research Project 2",
+                            "module_leader": "Amir Khan",
+                            "credits": 45,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5851M",
+                            "module_title": "Integrated Design Project 4",
+                            "module_leader": "David Richardson",
+                            "credits": 30,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5960M",
+                            "module_title": "Advanced Structural Analysis",
+                            "module_leader": "Ioannis Mitseas",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "prog_id": 1794,
+            "programme_title": "MSc Transport Infrastructure: Design and Construction",
+            "programme_short_title": "Trans Inf",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 5,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5000M",
+                            "module_title": "MSc Dissertation",
+                            "module_leader": "Mateusz Bocian",
+                            "credits": 60,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5164M",
+                            "module_title": "Transport Infrastructure Strategy",
+                            "module_leader": "Ana Heitor",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5330M",
+                            "module_title": "Bridge Engineering",
+                            "module_leader": "Mateusz Bocian",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5331M",
+                            "module_title": "Construction Technology",
+                            "module_leader": "Ashani Ranathunga",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5333M",
+                            "module_title": "Monitoring and Maintenance of Infrastructure",
+                            "module_leader": "Suhaila Mattar",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5334M",
+                            "module_title": "Railway Track Infrastructure Design",
+                            "module_leader": "Peter Woodward",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5438M",
+                            "module_title": "Climate Resilience of Transport",
+                            "module_leader": "David Connolly",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5671M",
+                            "module_title": "Geotechnical Engineering",
+                            "module_leader": "Peter Woodward",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5972M",
+                            "module_title": "Advanced Concrete Design",
+                            "module_leader": "John Forth",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5975M",
+                            "module_title": "Foundation Engineering",
+                            "module_leader": "Shashank Subramanyam",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "TRAN5241M",
+                            "module_title": "Road Geometry and Infrastructure",
+                            "module_leader": "Chandra Balijepalli",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": false,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "TRAN5946M",
+                            "module_title": "Deterioriation and Maintenance of Pavements",
+                            "module_leader": "Yue Huang",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "prog_id": 1795,
+            "programme_title": "MSc Architecture Design",
+            "programme_short_title": "Arch Des",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 5,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5406M",
+                            "module_title": "Theories of Architecture and Urban Design",
+                            "module_leader": "May Newisar",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5408M",
+                            "module_title": "Architecture Design Dissertation (New)",
+                            "module_leader": "Gehan Selim",
+                            "credits": 45,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5410M",
+                            "module_title": "Design Strategies in Architecture",
+                            "module_leader": "May Newisar",
+                            "credits": 45,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5411M",
+                            "module_title": "Advanced Architectural Design",
+                            "module_leader": "May Newisar",
+                            "credits": 45,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5412M",
+                            "module_title": "Research Methods in Architecture and Humanities",
+                            "module_leader": "Gehan Selim",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5413M",
+                            "module_title": "Professional Practice in Architecture",
+                            "module_leader": "Gehan Selim",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "prog_id": 1796,
+            "programme_title": "MSc Structural Engineering",
+            "programme_short_title": "Struct",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 5,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5000M",
+                            "module_title": "MSc Dissertation",
+                            "module_leader": "Mateusz Bocian",
+                            "credits": 60,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5913M",
+                            "module_title": "Design & Management of Structures in Earthquake Zones",
+                            "module_leader": "Nikolas Nikitas",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5970M",
+                            "module_title": "Advanced Structural Analysis",
+                            "module_leader": "Ioannis Mitseas",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5971M",
+                            "module_title": "Design Optimisation",
+                            "module_leader": "Amir Khan",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5972M",
+                            "module_title": "Advanced Concrete Design",
+                            "module_leader": "John Forth",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5975M",
+                            "module_title": "Foundation Engineering",
+                            "module_leader": "Shashank Subramanyam",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5977M",
+                            "module_title": "Advanced Steel and Composite Design",
+                            "module_leader": "Han Fang",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5980M",
+                            "module_title": "Structural Engineering Design Project",
+                            "module_leader": "David Richardson",
+                            "credits": 30,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "prog_id": 1797,
+            "programme_title": "MSc Geotechnical Engineering",
+            "programme_short_title": "Geotech",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 5,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5000M",
+                            "module_title": "MSc Dissertation",
+                            "module_leader": "Mateusz Bocian",
+                            "credits": 60,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5160M",
+                            "module_title": "Geotechnical Investigation and Characteristics",
+                            "module_leader": "Ana Heitor",
+                            "credits": 30,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5161M",
+                            "module_title": "Energy Geotechnics",
+                            "module_leader": "Fleur Loveridge",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5162M",
+                            "module_title": "Constitutive Models and Numerical Analysis",
+                            "module_leader": "Xiaohui Chen",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5164M",
+                            "module_title": "Transport Infrastructure Strategy",
+                            "module_leader": "Ana Heitor",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5575M",
+                            "module_title": "Groundwater Pollution and Contaminated Land",
+                            "module_leader": "Xiaohui Chen",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5671M",
+                            "module_title": "Geotechnical Engineering",
+                            "module_leader": "Peter Woodward",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5975M",
+                            "module_title": "Foundation Engineering",
+                            "module_leader": "Shashank Subramanyam",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "prog_id": 1799,
+            "programme_title": "MSc Water, Sanitation and Health Engineering",
+            "programme_short_title": "WASH",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 5,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5000M",
+                            "module_title": "MSc Dissertation",
+                            "module_leader": "Mateusz Bocian",
+                            "credits": 60,
+                            "semester": 3,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5050M",
+                            "module_title": "Management of WASH Projects",
+                            "module_leader": "Paul Hutchings",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5055M",
+                            "module_title": "Engineering for Public Health",
+                            "module_leader": "Paul Hutchings",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5312M",
+                            "module_title": "Wastewater and Faecal Sludge Management",
+                            "module_leader": "Miller Camargo - Valero",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5316M",
+                            "module_title": "Water Resource Management",
+                            "module_leader": "Mark Trigg",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5321M",
+                            "module_title": "Water Supply",
+                            "module_leader": "Mohsen Besharat",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5557M",
+                            "module_title": "Solid Waste Management",
+                            "module_leader": "Zhe Zhan",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5596M",
+                            "module_title": "Engineering in Emergencies",
+                            "module_leader": "Barbara Evans",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "NUFF5065M",
+                            "module_title": "Key Issues in International Health",
+                            "module_leader": "John Walley",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "prog_id": 1879,
+            "programme_title": "MArch Architecture (2 year)",
+            "programme_short_title": "MArch (2yr)",
+            "programme_description": "",
+            "levels": [
+                {
+                    "level": 5,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5805M",
+                            "module_title": "Sustainable Cities",
+                            "module_leader": "Sally Shahzad",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5825M",
+                            "module_title": "Law, Practice and Project Management",
+                            "module_leader": "Yasar Awais",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5840M",
+                            "module_title": "Design Studio 4.1",
+                            "module_leader": "Justin Lunn",
+                            "credits": 30,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5860M",
+                            "module_title": "Design Studio 4.2A",
+                            "module_leader": "Justin Lunn",
+                            "credits": 30,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5865M",
+                            "module_title": "Building Technology",
+                            "module_leader": "Justin Lunn",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5895M",
+                            "module_title": "Advanced Construction Issues",
+                            "module_leader": "Justin Lunn",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                },
+                {
+                    "level": 6,
+                    "modules": [
+                        {
+                            "module_code": "CIVE5870M",
+                            "module_title": "Dissertation",
+                            "module_leader": "Justin Lunn",
+                            "credits": 30,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5875M",
+                            "module_title": "Procurement & Risk Management",
+                            "module_leader": "Justin Lunn",
+                            "credits": 15,
+                            "semester": 2,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5880M",
+                            "module_title": "Design Studio 5",
+                            "module_leader": "Justin Lunn",
+                            "credits": 60,
+                            "semester": 0,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        },
+                        {
+                            "module_code": "CIVE5885M",
+                            "module_title": "Environmental Performance & Design",
+                            "module_leader": "Simon Rees",
+                            "credits": 15,
+                            "semester": 1,
+                            "compulsory": true,
+                            "pass_for_progression": false,
+                            "notes": "",
+                            "other_school": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
